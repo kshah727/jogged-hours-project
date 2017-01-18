@@ -1,7 +1,7 @@
-# Basic Project
-## Basic Project Structure
+# Jogged Hours Project
+## Jogged Hours Project Structure
 
-*Default Structure for A Basic Project*
+*Default Structure for calculating Total Jogged Hours *
 
 **Java 7**
 
