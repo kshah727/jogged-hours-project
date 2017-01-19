@@ -1,5 +1,5 @@
-# Jogged Hours Project
-## Jogged Hours Project Structure
+# Pet Registration Project
+## Pet Registration Project Structure
 
 *Default Structure for calculating Total Jogged Hours *
 
